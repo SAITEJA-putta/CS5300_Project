@@ -3,4 +3,4 @@ OrderID, DrinkID --> DrinkSize, DrinkQuantity, Milk
 OrderID, FoodID --> FoodQuantity				
 CustomerID --> CustomerName				
 DrinkID --> DrinkName				
-FoodID --> FoodName				
+FoodID --> FoodName		
